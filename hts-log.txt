@@ -1,0 +1,31 @@
+HTTrack3.48-19+htsswf+htsjava launched on Mon, 12 Jan 2015 16:21:30 at http://mblt.ru +*.css -*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, ru, *" http://mblt.ru -O1 "D:\Docs\Desktop\httrack\mblt14\mblt14" +*.css -*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:21:31	Warning: 	Found for mblt.ru/
+16:21:31	Warning: 	File has moved from mblt.ru/ to http://mblt.ru/en
+16:26:53	Warning: 	Retry after error -4 (No data (connection closed)) at link mblt.ru/system/partner_logos/1/medium/e-legion.png?1398355212 (from mblt.ru/en)
+16:26:53	Error: 	"Not Found" (404) at link mblt.ru/fonts/PFDinTextCompPro-Medium.eot (from mblt.ru/assets/application-4bd4e5c3b7fac3bc6d231d5a4a0bbc53.css)
+16:26:53	Error: 	"Not Found" (404) at link mblt.ru/fonts/PFDinTextCompPro-Medium.woff (from mblt.ru/assets/application-4bd4e5c3b7fac3bc6d231d5a4a0bbc53.css)
+16:26:53	Error: 	"Not Found" (404) at link mblt.ru/fonts/PFDinTextCompPro-Medium.ttf (from mblt.ru/assets/application-4bd4e5c3b7fac3bc6d231d5a4a0bbc53.css)
+16:26:53	Error: 	"Not Found" (404) at link mblt.ru/fonts/PFDinTextCompPro-Medium.svg (from mblt.ru/assets/application-4bd4e5c3b7fac3bc6d231d5a4a0bbc53.css)
+16:26:54	Warning: 	Retry after error -4 (No data (connection closed)) at link mblt.ru/system/speaker_logos/29/big_thumb/Nazna4.jpg?1395414652 (from mblt.ru/en/speakers)
+16:26:54	Warning: 	Retry after error -4 (No data (connection closed)) at link mblt.ru/system/speaker_company_logos/38/big_thumb/samsung-logo.jpeg?1396000582 (from mblt.ru/en/speakers)
+16:27:12	Warning: 	Moved Temporarily for mblt.ru/system/partner_logos/1/medium/e-legion.png?1398355212
+16:27:12	Warning: 	Warning moved treated for mblt.ru/system/partner_logos/1/medium/e-legion.png?1398355212 (real one is 3202.selcdn.com/mblt.shared/mblt2014/shared/system//partner_logos/1/medium/e-legion.png?1398355212)
+16:27:12	Warning: 	Moved Temporarily for mblt.ru/system/speaker_logos/29/big_thumb/Nazna4.jpg?1395414652
+16:27:12	Warning: 	Warning moved treated for mblt.ru/system/speaker_logos/29/big_thumb/Nazna4.jpg?1395414652 (real one is 3202.selcdn.com/mblt.shared/mblt2014/shared/system//speaker_logos/29/big_thumb/Nazna4.jpg?1395414652)
+16:27:12	Warning: 	Moved Temporarily for mblt.ru/system/speaker_company_logos/38/big_thumb/samsung-logo.jpeg?1396000582
+16:27:12	Warning: 	Warning moved treated for mblt.ru/system/speaker_company_logos/38/big_thumb/samsung-logo.jpeg?1396000582 (real one is 3202.selcdn.com/mblt.shared/mblt2014/shared/system//speaker_company_logos/38/big_thumb/samsung-logo.jpeg?1396000582)
+16:27:12	Warning: 	Moved Permanently for mblt.ru/en/news/
+16:27:12	Warning: 	File has moved from mblt.ru/en/news/ to http://mblt.ru/en/news
+16:27:12	Error: 	"Access Denied" (403) at link https://scontent-a-fra.xx.fbcdn.net/hphotos-frc3/t1.0-9/1976988_580313208732021_2347240296750764278_n.png (from mblt.ru/en/news/2)
+16:27:12	Warning: 	Moved Permanently for mblt.ru/ru/news/
+16:27:12	Warning: 	File has moved from mblt.ru/ru/news/ to http://mblt.ru/ru/news
+
+HTTrack Website Copier/3.48-19 mirror complete in 5 minutes 42 seconds : 281 links scanned, 266 files written (4495090 bytes overall) [3833877 bytes received at 11210 bytes/sec], 1192342 bytes transferred using HTTP compression in 56 files, ratio 27%, 5.5 requests per connection
+(5 errors, 15 warnings, 0 messages)
